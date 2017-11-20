@@ -1,0 +1,62 @@
+This file has automatically been generated.
+Fri Nov 17 16:51:53 2017
+Michel Bierlaire, EPFL
+
+biogeme 2.6a [Mon Apr 24 10:19:20 BST 2017]
+Michel Bierlaire, EPFL
+
+Warning: [16:51:53]bioMain.cc:108  pythonbiogeme Netherlands_Base_Model netherlandsRP.dat
+[16:51:53]bioParameters.cc:399  Parameter documentation generated: pythonparam.html
+[16:51:53]bioModelParser.cc:109  Netherlands_Base_Model.py exists
+ Read sample in binary format from __bin_netherlandsRP.dat *****
+ Processing the sample file: __bin_netherlandsRP.dat [00:00]
+ Nbr of cores reported by the system: 2
+ Nbr of cores used by biogeme: 1
+ Init. log-likelihood: -158.038 [00:00]
+     gmax Iter   radius        f(x)     Status       rhok nFree
+ +6.33e-02    1 1.00e+00 +1.5803756e+02 ****Converg  +1.08e+00 7  ++ P
+ +7.78e-02    2 2.00e+00 +1.2729349e+02 ****Converg  +1.11e+00 7  ++ P
+ +8.69e-02    3 4.00e+00 +1.1395331e+02 ****Converg  +1.09e+00 7  ++ P
+ +5.10e-02    4 8.00e+00 +1.1139351e+02 ****Converg  +9.96e-01 7  ++ P
+ +8.59e-03    5 1.60e+01 +1.1121535e+02 ****Converg  +1.01e+00 7  ++ P
+ +8.19e-04    6 3.20e+01 +1.1116992e+02 ****Converg  +1.00e+00 7  ++ P
+ +1.04e-04    7 6.40e+01 +1.1116990e+02 ****Converg  +1.00e+00 7  ++ P
+ Convergence reached...
+ Run time interval: [16:51:53,16:51:53]
+ Run time: 00:00
+ Estimated parameters: 
+ASC_CAR = 3.34731
+
+BETA_TIME_CAR = -2.27071
+
+BETA_COST_AGE1 = -0.105702
+
+BETA_COST_AGE2 = -0.156498
+
+BETA_TIME_RAIL = -0.510705
+
+BETA_FEMALE = 0.81881
+
+BETA_FIXED_ARRIVAL_TIME = 0.920434
+
+
+ File Netherlands_Base_Model~2_param.py created
+ --------------------------------------------------------
+ Directory: /Users/PIV/Downloads/Netherlands_Val_For
+ The following files have been generated
+ --------------------------------------------------------
+ Debug files
+ --------------------------------------------------------
+      headers.py: List of headers of the data file (biogeme use only)
+ --------------------------------------------------------
+ Useful files
+ --------------------------------------------------------
+      __biogeme.log: Log of all outputs
+      pythonparam.html: Documentation of the parameters
+      __parametersUsed.py: Values of the parameters actually used
+      Netherlands_Base_Model~2.tex: Results in LaTeX format
+ --------------------------------------------------------
+ Important files
+ --------------------------------------------------------
+      Netherlands_Base_Model~2_param.py: Results in Python format (to copy/paste for simulation)
+      Netherlands_Base_Model~2.html: Results in HTML format
